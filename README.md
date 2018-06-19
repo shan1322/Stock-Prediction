@@ -1,4 +1,4 @@
 # Stock Prediction
 Stock Price Prediction based project using LSTM .
-###Dataset
+### Dataset
 * In Data Folder
